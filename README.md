@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SneakyShrike&theme=night)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SneakyShrike&theme=dark)
 
 <!---
 SneakyShrike/SneakyShrike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
